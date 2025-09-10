@@ -64,7 +64,7 @@ Usage 🚀
 
 Clone the repository:
 
-git clone https://github.com/yourusername/fern-yt-showcase.git
+git clone https://github.com/Jake-M-77/fern-showcase.git
 
 
 Open any .html file in a web browser to view the pages.
